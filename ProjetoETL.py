@@ -6,7 +6,7 @@ from openai import OpenAI
 # =========================
 # CONFIG
 # =========================
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="Key_chatgpt")
 
 # =========================
 # CARREGA CSV
