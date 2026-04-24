@@ -1,0 +1,4 @@
+id, name,account_number,account_agency,account_balance,account_limit,card_number,card_limit,features,news
+1, Lucas,00001-1,0001,0.00,1000.00,**** **** **** 1111,1000.00,[],
+2, Laura,00002-2,0001,0.00,1000.00,**** **** **** 2222,1000.00,[],
+3, Pedro,00003-3,0001,0.00,1000.00,**** **** **** 3333,1000.00,[]
